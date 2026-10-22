@@ -1,6 +1,6 @@
 import math
 
-VALID_PATTERNS = ("stripes", "checker")
+VALID_PATTERNS = ("stripes", "checker","waves")
 
 
 def make_pattern(kind="stripes", size=10, symbol="#"):
